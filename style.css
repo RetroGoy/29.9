@@ -1,0 +1,12 @@
+body {
+    margin: 40px 60% 40px auto;
+    padding: 50px;
+    background-color: #f5f5f5;
+    border-radius: 3px;
+    box-shadow: 0 0 50px #147f25;
+
+}
+
+label, input {
+    margin: 0 0 10px 0;
+}
